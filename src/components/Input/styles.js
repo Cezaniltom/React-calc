@@ -11,19 +11,19 @@ export const InputContainer = styled.div`
 
     font-size: 24px;
     font-family: 'Roboto';
+    
 
     input {
         width: 100%;
         height: 75px;
-        background-color: #617C7E;
+        background-color: #9BAEBC;
         border: 0;
-        display: block;
-        direction: ltr;
+        display: flex;
         flex-direction: column;
         align-items: flex-end;
         padding: 0 10px;
         font-size: 24px;
         font-family: 'Roboto';
-        color: #FFFFFF
+        color: #FFFFFF;
     }
 `
